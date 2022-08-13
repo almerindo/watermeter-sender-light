@@ -1,2 +1,8 @@
-# watermeter-sender-light
-Used on raspiberrypi
+# Boilerplate
+- Nodejs
+- Typescript
+- eslint
+- prettier
+- jest
+- semantic-release
+- npm
